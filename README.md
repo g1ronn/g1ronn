@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, sou o Gustavo Giron 👋
 
-<!--
-**g1ronn/g1ronn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou cursando Engenharia de Software.
+- 📆 4° Período.
+- 📚 Conhecimentos nas linguagens: C++, Python.
+- 🚀 Áreas de Interesse: Desenvolvimento de IA, Desenvolvimento de jogos, Blockchain, Criptomoedas e Segurança da Informação
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/g1ronn">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=g1ronn&show_icons=true&theme=tokyonight&include_all_commits=true&cont_private=true"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1ronn&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
