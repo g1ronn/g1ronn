@@ -4,6 +4,9 @@
 - 📆 4° Período.
 - 📚 Conhecimentos nas linguagens: C++, Python.
 - 🚀 Áreas de Interesse: Desenvolvimento de IA, Desenvolvimento de jogos, Blockchain, Criptomoedas e Segurança da Informação
+- 📫 Email para contato: gustavo.giron@ges.inatel.br
+- 🔗 Linkedin: www.linkedin.com/in/gustavo-giron
+- 📷 Instagram: @gustavo_g1ron
 
 <div>
   <a href="https://github.com/g1ronn">
