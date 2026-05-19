@@ -4,7 +4,7 @@
 - 📆 4° Período.
 - 📚 Conhecimentos nas linguagens: C++, Python, HTML, CSS, JavaScript e Java.
 - 🚀 Áreas de Interesse: Desenvolvimento de IA, Desenvolvimento de Jogos, Banco de Dados, Criptomoedas e Segurança da Informação.
-- 📫 Email para contato: gustavo.giron@ges.inatel.br
+- 📫 Email para contato: ggiron787@gmail.com
 
 ---
 
