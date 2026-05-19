@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando Engenharia de Software pelo Instituto Nacional de Telecomunicações (INATEL).
 - 📆 4° Período.
-- 📚 Conhecimentos nas linguagens: C++, Python.
+- 📚 Conhecimentos nas linguagens: C++, Python, HTML, CSS, JavaScript, Java.
 - 🚀 Áreas de Interesse: Desenvolvimento de IA, Desenvolvimento de jogos, Banco de Dados, Criptomoedas e Segurança da Informação
 - 📫 Email para contato: gustavo.giron@ges.inatel.br
 - 🔗 Linkedin: www.linkedin.com/in/gustavo-giron
