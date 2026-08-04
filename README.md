@@ -1,7 +1,7 @@
 ## Olá, sou o Gustavo Giron 👋
 
 - 🔭 Estou cursando Engenharia de Software pelo Instituto Nacional de Telecomunicações (INATEL).
-- 📆 4° Período.
+- 📆 5° Período.
 - 📚 Conhecimentos nas linguagens: C++, Python, HTML, CSS, JavaScript e Java.
 - 🚀 Áreas de Interesse: Desenvolvimento de IA, Desenvolvimento de Jogos, Banco de Dados, Criptomoedas e Segurança da Informação.
 - 📫 Email para contato: ggiron787@gmail.com
