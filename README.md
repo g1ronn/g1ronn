@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando Engenharia de Software pelo Instituto Nacional de Telecomunicações (INATEL).
 - 📆 5° Período.
-- 📚 Conhecimentos nas linguagens: C++, Python, HTML, CSS, JavaScript e Java.
+- 📚 Conhecimentos nas linguagens: C++, Python, HTML, CSS, JavaScript, Java e SQL.
 - 📫 Email para contato: ggiron787@gmail.com
 
 ---
